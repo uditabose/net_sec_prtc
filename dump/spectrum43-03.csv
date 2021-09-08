@@ -1,0 +1,8 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+A4:97:33:08:59:41, 2021-09-08 02:59:31, 2021-09-08 03:02:45,  1, 720, WPA2, CCMP, PSK, -29,      395,     4514,   0.  0.  0.  0,  16, SpectrumSetup-43, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+3C:22:FB:63:71:5D, 2021-09-08 03:01:55, 2021-09-08 03:02:31, -68,     6152, A4:97:33:08:59:41,
+90:F1:AA:E6:FD:FF, 2021-09-08 02:59:32, 2021-09-08 03:02:45, -45,     4333, A4:97:33:08:59:41,
+
